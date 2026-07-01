@@ -16,7 +16,7 @@
 
 ## ✨ Por que isso existe
 
-Eu queria uma extensão simples que me mostrasse, de forma clara e rápida, o meu uso do Claude Code — sem fricção, sem precisar lembrar de rodar um comando. Foi assim que nasceu o `claude-usage-monitor`.
+Eu queria uma extensão simples que me mostrasse, de forma clara e rápida, o meu uso do Claude Code — sem fricção, sem precisar lembrar de rodar um comando (eu sei que é só dar /usage, mas eu queria ver o negócio impresso ali na minha cara o tempo todo).
 
 ## 🚀 Funcionalidades
 
